@@ -1,16 +1,15 @@
 # test_drive
 
-A new Flutter project.
+A beginner Flutter project.
 
-## Getting Started
+## Summary
 
-This project is a starting point for a Flutter application.
+This project is the result of following the [flutter docs "Getting Started" codelabs tutorial](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#7). This is my first time using flutter, and basically my first time using GitHub, so please forgive any errors/mistakes... I will only get better from here.
 
-A few resources to get you started if this is your first Flutter project:
+This project is a responsive, multi-platform application that will randomly generate two word "ideas", and allow the user to save their favorite ideas to a seperate "favorites" page.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## In this Project, I practiced:
+  - State Mangement
+  - Responsive Design
+  - Conditional Rendering
+  - UI/UX Design
